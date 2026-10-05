@@ -35,18 +35,10 @@ We build Stunt Double in the open where we can. These repositories are the parts
 
 <p align="center">
   <a href="https://github.com/stunt-double/stuntkit">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./assets/stuntkit-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="./assets/stuntkit-light.svg">
-      <img src="./assets/stuntkit-light.svg" alt="StuntKit: open source building blocks for AI agents that use the web" width="49%">
-    </picture>
+    <img src="./assets/stuntkit.svg" alt="StuntKit: open source building blocks for AI agents that use the web" width="49%">
   </a>
   <a href="https://github.com/stunt-double/stuntdouble-mcp">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./assets/mcp-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="./assets/mcp-light.svg">
-      <img src="./assets/mcp-light.svg" alt="Stunt Double MCP: put AI user personas inside your coding agent" width="49%">
-    </picture>
+    <img src="./assets/mcp.svg" alt="Stunt Double MCP: put AI user personas inside your coding agent" width="49%">
   </a>
 </p>
 
